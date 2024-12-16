@@ -1,16 +1,13 @@
-## Hi there 👋
+### 🚀 GitHub Profile Stats
 
-<!--
-**rattedccsoftwares/rattedccsoftwares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Repositories**: ![Repositories](https://img.shields.io/github/repo-count/rattedccsoftwares?style=for-the-badge&color=blue)
+- **Stars Received**: ![Stars](https://img.shields.io/github/stars/rattedccsoftwares?style=for-the-badge&color=yellow)
+- **Top Languages**:  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rattedccsoftwares&layout=compact&theme=dracula)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Profile Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rattedccsoftwares&show_icons=true&theme=dracula)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rattedccsoftwares&theme=dracula&no-bg=true)
