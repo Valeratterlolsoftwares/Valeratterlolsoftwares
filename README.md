@@ -1,6 +1,5 @@
 ### 🚀 GitHub Profile Stats
 
-- **Repositories**: ![Repositories](https://img.shields.io/github/repo-count/rattedccsoftwares?style=for-the-badge&color=blue)
 - **Stars Received**: ![Stars](https://img.shields.io/github/stars/rattedccsoftwares?style=for-the-badge&color=yellow)
 - **Top Languages**:  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rattedccsoftwares&layout=compact&theme=dracula)
