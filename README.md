@@ -1,6 +1,6 @@
 ### 🚀 GitHub Profile Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valeratterlolsoftwaress&layout=compact&theme=dracula) - **Stars Received**: ![Stars](https://img.shields.io/github/stars/Valeratterlolsoftwares?style=for-the-badge&color=yellow) 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Valeratterlolsoftwares&layout=compact&theme=dracula) - **Stars Received**: ![Stars](https://img.shields.io/github/stars/Valeratterlolsoftwares?style=for-the-badge&color=yellow) 
 
 
 
